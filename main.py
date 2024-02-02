@@ -91,5 +91,5 @@ def most_frequent(zoznam):
             najcastejsie = i
     return najcastejsie
 print(most_frequent(zoznam2))
-
+j
 
